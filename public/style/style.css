@@ -19,3 +19,6 @@
 #carousel-review {
   scroll-behavior: smooth;
 }
+.background-leading {
+  background-image: linear-gradient(rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.4)), url('/assets/img/leading_background.jpg');
+}
