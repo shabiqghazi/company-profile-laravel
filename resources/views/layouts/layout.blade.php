@@ -65,6 +65,6 @@
     @include('components.footer')
     <script src="/script/carousel.js"></script>
     <script src="/script/header.js"></script>
-    <script src="/build/assets/app-777e774b.css"></script>
+    <script src="/build/assets/app-ddee773b.js"></script>
   </body>
 </html>
