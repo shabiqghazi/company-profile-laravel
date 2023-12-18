@@ -4,8 +4,8 @@
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title>Profile</title>
-    <link rel="stylesheet" href="/style/style.css" />
-    <link rel="stylesheet" href="/build/assets/app-777e774b.css" />
+    <link rel="stylesheet" type="text/css" href="/style/style.css" />
+    <link rel="stylesheet" type="text/css" href="/build/assets/app-777e774b.css" />
     <link
       rel="stylesheet"
       href="https://cdn-uicons.flaticon.com/2.0.0/uicons-solid-rounded/css/uicons-solid-rounded.css"
