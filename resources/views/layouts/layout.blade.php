@@ -48,7 +48,7 @@
       </div>
     @else 
       <div
-        class="py-60 w-full flex items-center bg-center bg-[linear-gradient(rgba(0,0,0,0.4),rgba(0,0,0,0.4)),url('http://127.0.0.1:8000/assets/img/leading_background.jpg')] bg-cover"
+        class="py-60 w-full flex items-center bg-center background-leading bg-cover"
         id="featured"
       >
         @include('components.header')
